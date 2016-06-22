@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: 1.6.0_16 (Sun Microsystems Inc.)
+BDJ-Signature-Version: 1.0
+SHA1-Digest-Manifest: ++OaqoTJFss3rq0NQz55pynHcu4=
+
+Name: hellotvxlet/HelloTVXlet.class
+SHA1-Digest: zmhAvh6dXE+8LHW8TXhNaFexYyM=
+
+Name: hellotvxlet/Model.class
+SHA1-Digest: xbz0/Vpl1Uo9tdceGxSDMJGN3n4=
+
+Name: hellotvxlet/Controller.class
+SHA1-Digest: Ms2g77oGlIvQEE+W4t/H7z8Ux2Q=
+
+Name: hellotvxlet/BoardView.class
+SHA1-Digest: 4BDVNBa9MwGDkeeLQeYffc9gvLY=
+
+Name: hellotvxlet/bluray.HelloTVXlet.perm
+SHA1-Digest: 84ZO/rYCyy0JStmaLbg1GDVEFhQ=
+
